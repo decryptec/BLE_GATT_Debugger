@@ -91,6 +91,9 @@ pip install bleak
         -   For hex bytes: `write 2 0x01ff`
     -   `quit`: Disconnects from the current device and returns to the device selection menu.
 
+## Common Issues
+    - iPhone BLE testing with nrfConnect: After runnning and disconnecting, if "cannot find device" error persists. Restart iPhone Bluetooth and GATT services.
+
 ## Credits
 
 This tool is built upon the excellent [Bleak](https://github.com/hbldh/bleak) library, which does all the heavy lifting for cross-platform Bluetooth communication.
