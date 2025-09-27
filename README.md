@@ -1,4 +1,4 @@
-# Interactive BLE GATT Debug Tool
+#Interactive BLE GATT Debug Tool
 
 A minimalist, cross-platform Python tool for discovering, connecting to, and interacting with Bluetooth Low Energy (BLE) devices directly from your terminal. Built with [Bleak](https://github.com/hbldh/bleak), this script provides a simple command-line alternative to GUI-based BLE explorers like LightBlue or nRF Connect.
 
